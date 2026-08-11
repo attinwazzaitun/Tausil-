@@ -1,0 +1,25 @@
+{
+  "purchase_receipt_data": {
+    "transaction_id": "TRX-882109",
+    "selected_zone": "Taushil Hayyu Sabie",
+    "delivery_fee_rm": 10.00,
+    "total_amount_rm": 41.90,
+    "customer_info": {
+      "customer_phone": "+201012345678",
+      "google_map_link": "https://maps.google.com/?q=30.0444,31.2357"
+    },
+    "system_message": {
+      "status_code": 201,
+      "log_level": "SUCCESS",
+      "text": "Receipt image binary parsed and stored securely in bounded transaction buffer."
+    },
+    "receipt_upload_payload": {
+      "frame_container": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mNk+M9QDwADhgGAWjR9awAAAABJRU5ErkJggg==",
+      "image_format": "base64",
+      "mime_type": "image/png",
+      "file_name": "payment_receipt_framed.png",
+      "resolution": "1200x1600",
+      "description": "Gambar resit bayaran yang dimuat naik terus ke dalam sistem dalam bentuk fail imej tertutup berbingkai."
+    }
+  }
+}
