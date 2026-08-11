@@ -31,26 +31,6 @@
           "format": "image/jpeg"
         }
       }
-    },
-    {
-      "platform": "Talabat Mart Masr",
-      "tarikh_masa": "2026-08-11T15:08:45+03:00",
-      "pelanggan": {
-        "no_telefon_whatsapp": "000",
-        "kawasan_penghantaran": "10_asyir",
-        "lokasi_google_map": "hh",
-        "nota_kepada_admin": "Cepat"
-      },
-      "butiran_pembelian": {
-        "ringkasan": "Pembelian: 1x Fresh Milk 1L (35.50 EGP)",
-        "cas_penghantaran": "20.00 EGP",
-        "jumlah_keseluruhan": "55.50 EGP",
-        "resit": {
-          "sumber": "local_storage",
-          "nama_fail": "76630.jpg",
-          "format": "image/jpeg"
-        }
-      }
     }
   ]
 }
